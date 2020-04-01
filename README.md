@@ -129,3 +129,6 @@ urlpatterns = [
 Start up the Django server again:
 `python manage.py runserver`
 Now go to localhost:8000
+
+## Reference
+- https://medium.com/@BennettGarner/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
